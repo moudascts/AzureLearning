@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Moumita\\Azure Dev 204 learning\\Labs\\Lab1\\webapp1\\webapp1.csproj",
+      "projectUniqueName": "C:\\Moumita\\Repos\\webapp1.csproj",
       "projectName": "webapp1",
-      "projectPath": "C:\\Moumita\\Azure Dev 204 learning\\Labs\\Lab1\\webapp1\\webapp1.csproj",
+      "projectPath": "C:\\Moumita\\Repos\\webapp1.csproj",
       "packagesPath": "C:\\Users\\mouda\\.nuget\\packages\\",
-      "outputPath": "C:\\Moumita\\Azure Dev 204 learning\\Labs\\Lab1\\webapp1\\obj\\",
+      "outputPath": "C:\\Moumita\\Repos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mouda\\AppData\\Roaming\\NuGet\\NuGet.Config",
